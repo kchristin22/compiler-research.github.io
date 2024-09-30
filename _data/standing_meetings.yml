@@ -3,10 +3,34 @@
   time_cest: "17:00"
   connect: "[Link to zoom](https://princeton.zoom.us/j/97915651167?pwd=MXJ1T2lhc3Z5QWlYbUFnMTZYQlNRdz09)"
   agenda:
+    - title: "Improving performance of BioDynaMo using ROOT C++ Modules"
+      date: 2024-09-18 17:00:00 +0200
+      speaker: "Isaac Morales"
+      link: "[Slides](/assets/presentations/CaaS_Weekly_18_09_2024_Isaac_Morales_ImprovingBioDynaMo.pdf)"
+    - title: "Adopting CppInterOp in cppyy"
+      date: 2024-09-11 17:00:00 +0200
+      speaker: "Vipul Cariappa"
+      link: "[Slides](/assets/presentations/CaaS_Weekly_12_09_2024_Vipul_Cariappa_Adopting_CppInterOp_in_cppyy.pdf)"
+    - title: "Constexpr and consteval support in Clad"
+      date: 2024-09-03 17:00:00 +0200
+      speaker: "Mihail Mihov"
+      link: "[Slides](/assets/presentations/CaaS_Weekly_03_09_2024_Mihail_Mihov_ConstexprConstevalInClad.pdf)"
+    - title: "Superbuilds for ROOT"
+      date: 2024-08-28 17:00:00 +0200
+      speaker: "Pavlo Svirin"
+      link: "[Slides](/assets/presentations/CaaS_Weekly_28_08_2024_Pavlo_Svirin_SuperbuildsForROOT.pdf)"
     - title: "Out-Of-Process execution for Clang-Repl"
       date: 2024-07-31 17:00:00 +0200
       speaker: "Sahil Patidar"
       link: "[Slides](/assets/presentations/CaaS_Weekly_31_07_2024_Sahil_Patidar_Out_of_process_execution_for_ClangRepl.pdf)"
+    - title: "STL/Eigen - Automatic conversion and plugins for Python based ML-backends : Mid-Term Evaluation"
+      date: 2024-08-21 17:00:00 +0200
+      speaker: "Khushiyant"
+      link: "[Slides](/assets/presentations/Khushiyant_GSOC_MidEval.pdf)"
+    - title: "Implementing Differentiation of the Kokkos Framework in Clad"
+      date: 2024-08-14 17:00:00 +0200
+      speaker: "Atell Yehor Krasnopolski"
+      link: "[Slides](/assets/presentations/CaaS_Weekly_14_08_2024_Atell_Krasnopolski_KokkosCladMidProgressGSoC.pdf)"
     - title: "LLVM.org Website Redesign - Midterm Progress Update"
       date: 2024-07-31 17:00:00 +0200
       speaker: "Chaitanya Shahare"
